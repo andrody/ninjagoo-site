@@ -9,4 +9,6 @@
 
 Landing Page do jogo para ioS <a href="https://ninjagoo.herokuapp.com">Ninja Goo</a>
 
+<a href="https://www.facebook.com/ninjagoogame">Facebook</a>
+
 <img alt="Ninjagoo" src="https://i.imgur.com/7MVaPmP.png" />
