@@ -7,6 +7,6 @@
   Ninja Goo
 </h1>
 
-Landinpage do jogo para ioS <a href="https://ninjagoo.herokuapp.com">Ninja Goo</a>
+Landing Page do jogo para ioS <a href="https://ninjagoo.herokuapp.com">Ninja Goo</a>
 
-<img alt="Notecam" src="https://i.imgur.com/7MVaPmP.png" />
+<img alt="Ninjagoo" src="https://i.imgur.com/7MVaPmP.png" />
